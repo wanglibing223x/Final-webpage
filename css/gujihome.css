@@ -1,0 +1,93 @@
+body{
+	background: #333333;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.gox{
+	margin: 0 auto;
+	width: 1300px;
+	height: 1800px;
+	background: #999999;
+}
+.ggox{
+	width: 1300px;
+	height: 30px;
+	/*background: white;*/
+	background: green;
+	margin: 0 auto;
+}
+.gox2{
+	float: left;
+	width: 1000px;
+	height: 1800px;
+	background: white;
+}
+.ggox ul{
+	width: 1300px;
+	height: 30px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.ggox ul li{
+	margin-top: 10px;
+	width: 50px;
+	/*height: 40px;*/
+	float: left;
+	list-style: none;
+	text-align: center;
+	/*color:white;*/
+	line-height: 5px;
+	border-right: 0px solid#000000;
+}
+.ggox ul li:last-child{
+	border-right: none;
+}
+.ggox ul li a{
+	color: white;
+	text-decoration: none;
+}
+.ttxx a{
+	text-decoration: none;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	color: red;
+}
+.gi1{
+	margin-top: 15px;
+	width: 980px;
+	height: 143px;
+	border:solid 3px cadetblue;
+	margin-left: 10px;
+}
+.gi1 img{
+	height: 143px;
+	width: 200px;
+}
+.img1{
+	float: left;
+}
+.hhh{
+	height: 24px;
+	background: #999999;
+	color: blue;
+}
+.oi{
+	margin-top: 30px;
+	float: left;
+	width: 300px;
+	height: 600px;
+	/*background: black;*/
+}
+.fl{
+	background: khaki;
+}
+.fl2{
+	text-align: center;
+}
+.oi ul li{
+	margin-left: 20px;
+}

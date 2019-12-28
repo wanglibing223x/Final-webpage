@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.ob{
+	margin: 0 auto;
+	width: 1000px;
+	height: 630px;
+	/*background: black;*/
+}
+.ox{
+	float: left;
+	width: 533px;
+	height: 300px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+p{
+	margin: 0 auto;
+	width: 1000px;
+	height: 630px;
+	background: #999999;
+	text-align: justify;
+	line-height: 1.2em;
+}
+.txt{
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+}
+#sha{
+	margin: 0 auto;
+	width: 1000px;
+	height: 430px;
+}

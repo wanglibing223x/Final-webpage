@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.jjs{
+	/*margin: 0 auto;*/
+	color: red;
+	font-size: 50px;
+	text-align: center;
+}
+.tc1{
+	width: 1000px;
+	height: 450px;
+	margin: 20px auto;
+	border:solid 3px cadetblue;
+}
+.tc1 img{
+	margin-left: 300px;
+}
+h1{
+	font-size: 20px;
+	background: greenyellow;
+}
+.js{
+	font-size: 15px;
+}
